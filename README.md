@@ -7,4 +7,4 @@ For a usage example, see Demo.php
 
 License
 ==========================================
-http://creativecommons.org/licenses/by/4.0/deed.nl
+http://creativecommons.org/licenses/by/4.0/deed.en
